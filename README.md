@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natesh B V
 - 👀 I’m interested in Fog computing, Cloud Computing
-- 🌱 I’m currently Research Scholar at Dept. of IT
+- 🌱 Visiting/Postdoctoral Researcher at Computer Network Lab (LRC), IC,UNICAMP
 
 <!---
 Nateshbv/Nateshbv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
